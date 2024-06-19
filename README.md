@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @CoolAgam
-- 👀 I’m interested in learning AI
+- 👋 Hi, I’m Agam
+- 👀 I’m interested in learning Security and ML
 - 🌱 I’m currently studying my Bachelors at QUT
 - 📫 Add me on discord @CoolAgam
 - ⚡ Challenge me for a chess match!
