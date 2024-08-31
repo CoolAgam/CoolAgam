@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Agam
-- 👀 I’m interested in learning Security and ML
+- 👀 I’m learning Security and ML
 - 🌱 I’m currently studying my Bachelors of IT
 - 📫 Add me on discord @CoolAgam
 - ⚡ Challenge me for a chess match!
